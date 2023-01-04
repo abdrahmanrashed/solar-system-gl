@@ -12,6 +12,7 @@
 				"-o",
 				"${fileDirname}\\${fileBasenameNoExtension}.exe",
 				"-lfreeglut",
+				"-lglu32",
 				"-lopengl32",
 				"-mavx2",
 				"-O2"
