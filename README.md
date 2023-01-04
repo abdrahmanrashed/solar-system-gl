@@ -1,7 +1,7 @@
 # solar-system-gl
 This is a simple and intuitive model of our solar system constructed with opengl(glut)
 
-------------------------------------------------------------
+-------------------------------------------------------------
 
 # header
 The "algo.hpp" header has all the tools created to make the poject easier to read and implement
