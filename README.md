@@ -1,5 +1,5 @@
 # solar-system-gl
-This is a simple and intuitive model of our solar system constructed with opengl(glut)
+This is a simple and intuitive model a solar system constructed with opengl(glut)
 
 -------------------------------------------------------------
 
